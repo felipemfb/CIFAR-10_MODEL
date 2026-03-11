@@ -1,2 +1,2 @@
-# CIFAR-10_MLP
-CIFAR-10 MLP Model
+# CIFAR-10
+CIFAR-10 MLP and CNN Models
